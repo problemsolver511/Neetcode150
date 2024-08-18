@@ -1,1 +1,26 @@
-Neet code 150 programs
+
+Array & Hashing 
+
+1. Contains Duplicate
+
+2. Two Sum 
+
+2. Valid Anagram
+
+4. Group Anagram 
+
+5. Top K frequent Elements
+
+6. Encode & Decode Strings     - understood -  
+
+7. Product of Array Except self  - Nikil lohia
+
+8. Valid Sudoku - do some research 
+
+9. Longest Consecutive Sequence  - Nikil lohia
+------------------------------------------------
+Two Pointers 
+
+10. Valid Palindrome 
+
+
